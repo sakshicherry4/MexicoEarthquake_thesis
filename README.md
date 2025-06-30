@@ -5,5 +5,5 @@ Preprocessing_dataset.ipynb has basic preproccessing steps applied to the 10 U-N
 Initial_Visualizations.ipynb has all the initial visualizations mostly with understanding the dataset features
 Other two are the channel10_U-Net.ipynb has 10 channel unet model with all imports in it
 2ndchannelinal.ipynb has preproccessing and the 2-channel U-Net model in it.
-
-Other than that all the files are realted the history of the epoch runs
+All code files have necessary imports within them
+Other than that all the files are related the history of every epoch runs.
