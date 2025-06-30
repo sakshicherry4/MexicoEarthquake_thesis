@@ -22,4 +22,7 @@ All other files in the repository store the training history for each model acro
 
 Important Note: Each code file includes the necessary imports and runs independently.
 
+References:
+UNET model reference: U-Net Implementation -> reference for unet: https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/
+EarthquakeDamageGenerator Class: https://keras.io/api/utils/python_utils/#sequence-class
 
