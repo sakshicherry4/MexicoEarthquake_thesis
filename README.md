@@ -1,4 +1,4 @@
-Here's a more professional and well-structured version of your README file for the Mexico earthquake damage assessment thesis code:
+
 Mexico Earthquake Damage Assessment – Thesis Code:
 This repository contains the codebase for the thesis project focused on assessing earthquake-induced building damage in Mexico using U-Net-based models and satellite imagery.
 
